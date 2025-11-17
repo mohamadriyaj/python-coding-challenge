@@ -1,0 +1,25 @@
+# Step 1: Create Tuple for each student (immutable personal info)
+student1 = ("RiyaJ", 101, "Data Science")
+student2 = ("Aarav", 102, "AI & ML")
+student3 = ("Meera", 103, "Data Science")
+
+# Step 2: Create 1D List for marks of each student
+marks1 = [85, 90, 88]      # Subjects: Python, SQL, Statistics
+marks2 = [78, 82, 80]
+marks3 = [92, 89, 95]
+
+# Step 3: Combine all marks into a 2D List
+combine_mark=[marks1,marks2,marks3]
+batch2=[
+    [88,73,79]
+    [80,76,68]
+    [90,84,78]
+        
+
+]
+# Step 4: Combine all batches (3D List - two different batches)
+batches=[batch1,batch2]
+
+
+# Step 5: Display formatted data
+print=[batches]
